@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Software Development Projects<br>🤝 I’m looking for help with growing skills in developing large-scale projects<br>🌱 I’m currently learning ReactJs<br>💬 Ask me about how do I approach problem-solving in my work<br>⚡ Fun fact I drink a lot coffees to generate neurons
+👯 I’m looking to collaborate on Software Development Companies<br>🤝 I’m looking for help with growing skills in developing large-scale projects<br>🌱 I’m currently learning ReactJs<br>💬 Ask me about how do I approach problem-solving in my work<br>⚡ Fun fact I drink a lot coffees to generate neurons
 
 
 ## 🌐 Socials:
